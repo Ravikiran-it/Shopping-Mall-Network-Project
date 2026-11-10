@@ -1,6 +1,5 @@
 # Shopping Mall Network – Cisco Packet Tracer Case Study
 
-**Course:** 21CSC302J – Computer Networks  
 **Project:** Design and Implementation of a Secure Shopping Mall Network  
 **Simulator:** Cisco Packet Tracer  
 **Main devices:** Cisco 2811 Mall Router, Cisco 1941 ISP Router, Cisco 2960 switches, mall server, PCs and wireless access point.
